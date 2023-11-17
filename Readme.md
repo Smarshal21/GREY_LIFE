@@ -1,4 +1,4 @@
-# GreyLife IT Challenge - Loan Risk Assessment Solution
+# GreyLife - Loan Risk Assessment 
 
 ## Introduction
 
@@ -26,15 +26,26 @@ The Android app has two sides:
 
 ### Borrower's Side App Screenshots
 
-### Login and Signup Screens:
+#### Login and Signup Screens:
 <img width="507" alt="Screenshot 2023-11-17 at 5 05 08 PM" src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/0df491c2-cc84-4390-a3f4-730303233b92">
 
-### Home and Status Screens:
+#### Home and Status Screens:
 <img width="758" alt="Screenshot 2023-11-17 at 5 06 01 PM" src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/99b0aa20-4bd9-4321-a720-ced2555678da">
 
-### SRIT Test and Risk Mitigation Screens:
+#### SRIT Test and Risk Mitigation Screens:
 <img width="507" alt="Screenshot 2023-11-17 at 5 06 35 PM" src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/720d4d6e-5286-403e-b3b7-f9624b2c2f7d">
 
+
+### Lender's Side App Screenshots
+
+
+#### Customer Details and Risk Mitigation Screens:
+<img src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/b2eb40fb-fa84-48f8-ba40-2c06bd96e0d6" width="250" height="500" /> 
+<img src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/46e9b714-e2a1-496d-a4cd-cf82ff523987" width="250" height="500" /> 
+
+#### Status:
+<img src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/232b7aa6-7ebe-43e3-b9e8-4ba10ca41bdd" width="250" height="500" /> 
+<img src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/5b2f92e8-5fe1-4ff3-88d0-cff595446547" width="250" height="500" /> 
 
 ## Machine Learning
 ### Overview
