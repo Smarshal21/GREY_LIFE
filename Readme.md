@@ -23,6 +23,7 @@ The Android app has two sides:
 - **Borrower**
 - **Lender**
 
+
 ### Borrower's Side App Screenshots
 
 Here are the borrower's side app screenshots placed side by side with slightly larger sizes:
@@ -30,13 +31,10 @@ Here are the borrower's side app screenshots placed side by side with slightly l
 <img width="507" alt="Screenshot 2023-11-17 at 5 05 08 PM" src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/0df491c2-cc84-4390-a3f4-730303233b92">
 
 ### Home and Status Screens:
-<img src="https://github.com/Smarshal21/GREY_LIFE_PREFINALE/assets/99678760/66307f31-8d88-43d5-aaff-2e4668377dda" width="250" height="500" /> 
-<img src="https://github.com/Smarshal21/GREY_LIFE_PREFINALE/assets/99678760/04abe3fc-e931-438b-87f3-07ac0340489a" width="250" height="500" /> 
-<img src="https://github.com/Smarshal21/GREY_LIFE_PREFINALE/assets/99678760/8197b229-1e40-4c5c-ba21-7f81b911a052" width="250" height="500" /> 
+<img width="758" alt="Screenshot 2023-11-17 at 5 06 01 PM" src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/99b0aa20-4bd9-4321-a720-ced2555678da">
 
 ### SRIT Test and Risk Mitigation Screens:
-<img src="https://github.com/Smarshal21/GREY_LIFE_PREFINALE/assets/99678760/9992a97c-15ee-4eaf-9f42-01009bf2a051" width="250" height="500" /> 
-<img src="https://github.com/Smarshal21/GREY_LIFE_PREFINALE/assets/99678760/9384f5ef-daf0-4544-9455-3299857edb88" width="250" height="500" /> 
+<img width="507" alt="Screenshot 2023-11-17 at 5 06 35 PM" src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/720d4d6e-5286-403e-b3b7-f9624b2c2f7d">
 
 
 ## Machine Learning
@@ -53,10 +51,11 @@ Allows for feature selection and can handle both numerical and categorical data
 Can lead to improved model performance, especially when the individual models have complementary strengths and weaknesses. Provides more robust predictions and is less sensitive to outliers or noise in the data.
 
 ### Workflow
-<img width="645" alt="Screenshot 2023-10-18 at 10 03 25 AM" src="https://github.com/Smarshal21/GREY_LIFE_PREFINALE/assets/99678760/1c7bc138-f297-49ad-8f08-d9e3bf2ff9cb">
+
+<img width="641" alt="Screenshot 2023-11-17 at 5 07 19 PM" src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/a8a84e10-4456-4e1d-b329-17bead07c46b">
 
 ### Sample Input and Output
-<img width="1146" alt="Screenshot 2023-10-18 at 10 04 54 AM" src="https://github.com/Smarshal21/GREY_LIFE_PREFINALE/assets/99678760/573e83b8-b82c-4729-af83-c8daa697bbd6">
+<img width="1010" alt="Screenshot 2023-11-17 at 5 07 47 PM" src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/603f9ea4-2b5e-4659-86fb-dab63ad46e4d">
 
 ## BlockChain
 ### Overview
@@ -69,14 +68,16 @@ The ledger is the decentralized database that stores all of the transactions tha
 #### Smart Contracts
 Smart contracts are self-executing contracts.These are used blockchain consortium architecture to automate the process of executing transactions on the blockchain. Kaleido's Smart Contract Management component simplifies Ethereum transaction submission and application development by providing clean RESTful interfaces for interaction with your smart contract methods.
 ##### Smart Contract WorkFlow
-![Smart_Contract](https://github.com/Smarshal21/GREY_LIFE_PREFINALE/assets/99678760/1c9ac823-b46a-42d7-8142-d2e9e607cefd)
+<img width="1030" alt="Screenshot 2023-11-17 at 5 08 15 PM" src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/50640901-9417-4fec-b6fa-b85b505d0400">
+
 #### Governance
 Consortium blockchain governance is member-defined and adaptable, comprising rules and decision-making mechanisms tailored to specific use cases and goals.
 Access to a private blockchain network is restricted to authorized parties only, and the network is not open to the public.
 Private blockchains are preferred in enterprise use cases, such as supply chain management, to maintain greater network control.
 #### Transaction Details
-<img width="500" height="180" alt="Screenshot 2023-10-18 at 10 16 29 AM" src="https://github.com/Smarshal21/GREY_LIFE_PREFINALE/assets/99678760/492e2ff9-7a86-4c19-97bb-39c69c974734">       <img width="500"  height="180" alt="Screenshot 2023-10-18 at 10 16 47 AM" src="https://github.com/Smarshal21/GREY_LIFE_PREFINALE/assets/99678760/29187555-0711-42fa-90b1-48cecacbdaea">
-<img width="493" alt="Screenshot 2023-10-18 at 10 17 07 AM" src="https://github.com/Smarshal21/GREY_LIFE_PREFINALE/assets/99678760/3078e9e4-5930-4655-9f00-7e17195c93ed">
+<img width="1003" alt="Screenshot 2023-11-17 at 5 08 59 PM" src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/87e49173-f167-412a-b616-986433f3a8f1">
+<img width="492" alt="Screenshot 2023-11-17 at 5 09 23 PM" src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/021ae77c-8b02-4726-aa79-72232f7a1adc">
+
 ## Features
 - Authentication - Email-Password
 - Dashboard
@@ -97,6 +98,7 @@ Private blockchains are preferred in enterprise use cases, such as supply chain 
 - Kaleido
 - Polygon-Edge
 - JavaScript
+
 ## Meet The Team
 - KSN Samanwith (Team Leader)|[Github](https://github.com/Smarshal21)
 - Badri Akkala |[Github](https://github.com/LCB2021029-Badri)
