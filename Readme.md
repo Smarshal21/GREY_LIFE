@@ -26,7 +26,6 @@ The Android app has two sides:
 
 ### Borrower's Side App Screenshots
 
-Here are the borrower's side app screenshots placed side by side with slightly larger sizes:
 ### Login and Signup Screens:
 <img width="507" alt="Screenshot 2023-11-17 at 5 05 08 PM" src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/0df491c2-cc84-4390-a3f4-730303233b92">
 
