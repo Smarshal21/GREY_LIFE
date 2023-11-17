@@ -27,8 +27,7 @@ The Android app has two sides:
 
 Here are the borrower's side app screenshots placed side by side with slightly larger sizes:
 ### Login and Signup Screens:
-<img src="https://github.com/Smarshal21/GREY_LIFE_PREFINALE/assets/99678760/99598fea-faf6-4ab5-9b80-a0f792be4b39" width="250" height="500" /> 
-<img src="https://github.com/Smarshal21/GREY_LIFE_PREFINALE/assets/99678760/90d209ec-bd4d-411e-b8a4-c2d6e6a18642" width="250" height="500" />
+<img width="507" alt="Screenshot 2023-11-17 at 5 05 08 PM" src="https://github.com/Smarshal21/GREY_LIFE_IT/assets/99678760/0df491c2-cc84-4390-a3f4-730303233b92">
 
 ### Home and Status Screens:
 <img src="https://github.com/Smarshal21/GREY_LIFE_PREFINALE/assets/99678760/66307f31-8d88-43d5-aaff-2e4668377dda" width="250" height="500" /> 
